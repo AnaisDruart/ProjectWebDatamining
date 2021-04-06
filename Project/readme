@@ -1,4 +1,4 @@
-To launch the website :
+## To launch the website :
 ________________________________________________________________________________________________________________________
 * only the html content : unzip the file, open WebContent, double-click on google_maps or  MAPTEST.html
 * both the html content and jsp content : open the project on Eclipse or any Java IDE, and launch any .html or .jsp file
